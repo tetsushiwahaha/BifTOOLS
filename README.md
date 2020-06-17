@@ -7,6 +7,14 @@
 
 1. Duplicate `sample` directory as an appropriate name and move to that
 directory. 
-2. Type `make`.
+1. Type `make`.
+1. You may obtain a `bvpBF` binary. This is an example utility for 
+a coupled Bonvoher van der Pol equation.
+
+## To excute
+
+    % ./bvpBF bfg
+    % ./bvpBF bfi
+    % ./bvpBF bfp
 
 
