@@ -1,0 +1,18 @@
+D
+1.468407 0.557918 0.337100
+0.5000000000 0.4765717994 -0.9395187766 -0.5151251654 9.356934
+
+/* sigma and omega */
+-1 0
+
+/* da db dc */
+0.001 0.001 0.0
+
+1           /* number of period */
+0   /* poincare section no. */
+256         /* integral strip */
+1e-10           /* EPS for Newton's method */
+20          /* iteration max */
+100         /* explode */
+0           /* variable param */
+1            /* incremental param */

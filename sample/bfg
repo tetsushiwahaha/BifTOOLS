@@ -1,0 +1,19 @@
+G
+1.483240 0.406571 0.529199 
+0.4292151376 0.0000000000 0.7655104910 0.7781925321 12.648566
+
+/* sigma and omega, should be ignored in cases T and D */
+1 0 
+
+/* da db dc */
+0.001 0.001 0.0
+
+1			/* number of period */
+1	/* poincare section no. */
+256			/* integral strip */
+1e-10			/* EPS for Newton's method */
+20			/* iteration max */
+100			/* explode */			
+1			/* variable param */
+0			 /* incremental param */
+

@@ -1,0 +1,19 @@
+PITCHFORK
+1.299008 0.532904 0.337100 
+0.5000000000 0.5213783293 -0.6885096436 -0.4018083668 29.867386
+
+/* sigma and omega, should be ignored in cases T and D */
+-1 0 
+
+/* da db dc */
+0.0001 0.001 0.0
+
+1			/* number of period */
+0	/* poincare section no. */
+256			/* integral strip */
+1e-10			/* EPS for Newton's method */
+20			/* iteration max */
+100			/* explode */			
+1			/* variable param */
+0			 /* incremental param */
+
